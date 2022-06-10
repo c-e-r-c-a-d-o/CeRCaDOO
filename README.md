@@ -39,3 +39,44 @@ Cercado wants to inspire, activate & Motivate you </p2>
   <img class= "logo" src="IMAGES/Tekengebied 1.png" width="420" height="380" alt="logo"/> </div>
 </body>
 </html>
+h1 { font-family: 'Bauhaus 93'; 
+	font-size: 60px; 
+	color: white; 
+}
+h3 { font-family: 'updock', cursive; 
+	 Font-size: 30px; 	
+	 color: white; 
+}
+
+p1 { font-family: 'Corbel Light'; 
+	 font-size: 16px; 
+	 color: white; 
+}
+
+h4  { font-family: 'updock', cursive ;
+	  font-size: 25px;
+	  color: white; 
+}
+
+p2 { font-family: 'Corbel Light';
+	font-size: 16px;
+	color: white; 
+}
+
+body { background-image: url("IMAGES/31100119088_a24f921995_b.jpg"); 
+
+}
+
+.wrapper { width: 100%; 
+}
+.logo { display: block;
+	   width: 100%; 
+	   padding-bottom: 30px; 
+	   align: left; 
+
+}
+
+.img-info { width: 100%; 		
+}
+
+.img-info h4 { padding: 30px 30px 20px; }
