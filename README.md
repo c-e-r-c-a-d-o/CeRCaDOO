@@ -1,6 +1,5 @@
 # CeRCaDOO
 Cercado website
-<!doctype html>
 <html>
 <head>
 <a href="MarketingCeRCaDOO.html">MarketingCeRCaDOO.html</a>
